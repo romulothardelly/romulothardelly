@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romulothardelly
-- 👀 I’m interested in javascript
+- 👀 I’m interested in javascript/php/css and html
 - 🌱 I’m currently learning three.js
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me github
